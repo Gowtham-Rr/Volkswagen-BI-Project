@@ -1,0 +1,101 @@
+dealer_id,dealer_name,city,state
+D001,VW Indore Auto 1,Indore,Madhya Pradesh
+D002,VW Mumbai Auto 2,Mumbai,Maharashtra
+D003,VW Bengaluru Auto 3,Bengaluru,Karnataka
+D004,VW Patna Auto 4,Patna,Bihar
+D005,VW Noida Auto 1,Noida,Uttar Pradesh
+D006,VW Gurugram Auto 2,Gurugram,Haryana
+D007,VW Gurugram Auto 3,Gurugram,Haryana
+D008,VW Pune Auto 4,Pune,Maharashtra
+D009,VW Patna Auto 1,Patna,Bihar
+D010,VW Mumbai Auto 2,Mumbai,Maharashtra
+D011,VW Bhopal Auto 3,Bhopal,Madhya Pradesh
+D012,VW Patna Auto 4,Patna,Bihar
+D013,VW Lucknow Auto 1,Lucknow,Uttar Pradesh
+D014,VW Mangaluru Auto 2,Mangaluru,Karnataka
+D015,VW Chandigarh Auto 3,Chandigarh,Chandigarh
+D016,VW Thiruvananthapuram Auto 4,Thiruvananthapuram,Kerala
+D017,VW Mysuru Auto 1,Mysuru,Karnataka
+D018,VW Bengaluru Auto 2,Bengaluru,Karnataka
+D019,VW Mangaluru Auto 3,Mangaluru,Karnataka
+D020,VW New Delhi Auto 4,New Delhi,Delhi
+D021,VW Gurugram Auto 1,Gurugram,Haryana
+D022,VW Jaipur Auto 2,Jaipur,Rajasthan
+D023,VW Kolkata Auto 3,Kolkata,West Bengal
+D024,VW Bengaluru Auto 4,Bengaluru,Karnataka
+D025,VW Lucknow Auto 1,Lucknow,Uttar Pradesh
+D026,VW New Delhi Auto 2,New Delhi,Delhi
+D027,VW Bhubaneswar Auto 3,Bhubaneswar,Odisha
+D028,VW Indore Auto 4,Indore,Madhya Pradesh
+D029,VW Bhubaneswar Auto 1,Bhubaneswar,Odisha
+D030,VW Lucknow Auto 2,Lucknow,Uttar Pradesh
+D031,VW Thiruvananthapuram Auto 3,Thiruvananthapuram,Kerala
+D032,VW Gurugram Auto 4,Gurugram,Haryana
+D033,VW Ahmedabad Auto 1,Ahmedabad,Gujarat
+D034,VW Chandigarh Auto 2,Chandigarh,Chandigarh
+D035,VW Noida Auto 3,Noida,Uttar Pradesh
+D036,VW Visakhapatnam Auto 4,Visakhapatnam,Andhra Pradesh
+D037,VW Bengaluru Auto 1,Bengaluru,Karnataka
+D038,VW Guwahati Auto 2,Guwahati,Assam
+D039,VW Visakhapatnam Auto 3,Visakhapatnam,Andhra Pradesh
+D040,VW Nagpur Auto 4,Nagpur,Maharashtra
+D041,VW Bhubaneswar Auto 1,Bhubaneswar,Odisha
+D042,VW Thiruvananthapuram Auto 2,Thiruvananthapuram,Kerala
+D043,VW Chennai Auto 3,Chennai,Tamil Nadu
+D044,VW Noida Auto 4,Noida,Uttar Pradesh
+D045,VW Pune Auto 1,Pune,Maharashtra
+D046,VW New Delhi Auto 2,New Delhi,Delhi
+D047,VW Guwahati Auto 3,Guwahati,Assam
+D048,VW Chennai Auto 4,Chennai,Tamil Nadu
+D049,VW Mumbai Auto 1,Mumbai,Maharashtra
+D050,VW Mangaluru Auto 2,Mangaluru,Karnataka
+D051,VW Kochi Auto 3,Kochi,Kerala
+D052,VW Mumbai Auto 4,Mumbai,Maharashtra
+D053,VW Coimbatore Auto 1,Coimbatore,Tamil Nadu
+D054,VW Coimbatore Auto 2,Coimbatore,Tamil Nadu
+D055,VW Kolkata Auto 3,Kolkata,West Bengal
+D056,VW Noida Auto 4,Noida,Uttar Pradesh
+D057,VW Visakhapatnam Auto 1,Visakhapatnam,Andhra Pradesh
+D058,VW Mysuru Auto 2,Mysuru,Karnataka
+D059,VW Patna Auto 3,Patna,Bihar
+D060,VW Ahmedabad Auto 4,Ahmedabad,Gujarat
+D061,VW Lucknow Auto 1,Lucknow,Uttar Pradesh
+D062,VW Mumbai Auto 2,Mumbai,Maharashtra
+D063,VW Kochi Auto 3,Kochi,Kerala
+D064,VW Mangaluru Auto 4,Mangaluru,Karnataka
+D065,VW Lucknow Auto 1,Lucknow,Uttar Pradesh
+D066,VW Hyderabad Auto 2,Hyderabad,Telangana
+D067,VW Indore Auto 3,Indore,Madhya Pradesh
+D068,VW Kolkata Auto 4,Kolkata,West Bengal
+D069,VW Coimbatore Auto 1,Coimbatore,Tamil Nadu
+D070,VW Chandigarh Auto 2,Chandigarh,Chandigarh
+D071,VW New Delhi Auto 3,New Delhi,Delhi
+D072,VW Bhubaneswar Auto 4,Bhubaneswar,Odisha
+D073,VW Mangaluru Auto 1,Mangaluru,Karnataka
+D074,VW Mysuru Auto 2,Mysuru,Karnataka
+D075,VW Bhopal Auto 3,Bhopal,Madhya Pradesh
+D076,VW Gurugram Auto 4,Gurugram,Haryana
+D077,VW Guwahati Auto 1,Guwahati,Assam
+D078,VW Hyderabad Auto 2,Hyderabad,Telangana
+D079,VW Mangaluru Auto 3,Mangaluru,Karnataka
+D080,VW Gurugram Auto 4,Gurugram,Haryana
+D081,VW Mumbai Auto 1,Mumbai,Maharashtra
+D082,VW Kochi Auto 2,Kochi,Kerala
+D083,VW Noida Auto 3,Noida,Uttar Pradesh
+D084,VW Ahmedabad Auto 4,Ahmedabad,Gujarat
+D085,VW Indore Auto 1,Indore,Madhya Pradesh
+D086,VW Coimbatore Auto 2,Coimbatore,Tamil Nadu
+D087,VW Nagpur Auto 3,Nagpur,Maharashtra
+D088,VW Coimbatore Auto 4,Coimbatore,Tamil Nadu
+D089,VW Coimbatore Auto 1,Coimbatore,Tamil Nadu
+D090,VW New Delhi Auto 2,New Delhi,Delhi
+D091,VW Bhopal Auto 3,Bhopal,Madhya Pradesh
+D092,VW Noida Auto 4,Noida,Uttar Pradesh
+D093,VW Bhubaneswar Auto 1,Bhubaneswar,Odisha
+D094,VW Bhopal Auto 2,Bhopal,Madhya Pradesh
+D095,VW Indore Auto 3,Indore,Madhya Pradesh
+D096,VW Mangaluru Auto 4,Mangaluru,Karnataka
+D097,VW Kolkata Auto 1,Kolkata,West Bengal
+D098,VW Indore Auto 2,Indore,Madhya Pradesh
+D099,VW Nagpur Auto 3,Nagpur,Maharashtra
+D100,VW Lucknow Auto 4,Lucknow,Uttar Pradesh
