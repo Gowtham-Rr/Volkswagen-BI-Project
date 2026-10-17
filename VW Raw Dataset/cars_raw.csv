@@ -1,0 +1,27 @@
+car_id,model,variant,fuel_type,transmission,ex_showroom_price
+CAR001,Virtus,Comfortline,Petrol,Manual,1149000
+CAR002,Virtus,Highline,Petrol,Manual,1349000
+CAR003,Virtus,Highline,Petrol,Automatic,1499000
+CAR004,Virtus,Topline,Petrol,Automatic,1649000
+CAR005,Virtus,GT,Petrol,Manual,1599000
+CAR006,Virtus,GT Plus,Petrol,Automatic,1899000
+CAR007,Taigun,Comfortline,Petrol,Manual,1199000
+CAR008,Taigun,Highline,Petrol,Manual,1499000
+CAR009,Taigun,Highline,Petrol,Automatic,1649000
+CAR010,Taigun,Topline,petrol,Automatic,1799000
+CAR011,Taigun,GT,Petrol,Manual,1699000
+CAR012,Taigun,GT Plus,Petrol,Automatic,1999000
+CAR013,Tiguan,Elegance,Petrol,Automatic,3499000
+CAR014,Polo,Trendline,Petrol,Manual,699000
+CAR015,Polo,Comfortline,Petrol,Manual,799000
+CAR016,Polo,Highline Plus,Petrol,Automatic,999000
+CAR017,Vento,Trendline,P,Manual,899000
+CAR018,Vento,Highline,Petrol,Automatic,1199000
+CAR019,Vento,Highline Plus,Petrol,Automatic,1399000
+CAR020,T-Roc,TSI,PETROL,Automatic,2199000
+CAR021,Ameo,Trendline,Gasoline,Manual,699000
+CAR022,Ameo,Comfortline,Diesel,Manual,899000
+CAR023,Ameo,Highline Plus,Diesel,Automatic,1099000
+CAR024,Passat,Elegance,Diesel,Automatic,3399000
+CAR025,Jetta,Comfortline, Petrol ,Manual,1899000
+CAR026,Jetta,Highline,Diesel,Automatic,2299000
