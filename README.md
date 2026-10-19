@@ -6,6 +6,20 @@ This project focuses on analyzing Volkswagen vehicle sales in India using **SQL 
 
 The project combines SQL-based data investigation and analysis with Power BI visualizations to explore sales trends, revenue, customer metrics, and vehicle preferences.
 
+## 📸 Dashboard Preview
+
+### 1. Showroom View
+
+The showroom view presents an interactive Volkswagen sales dashboard with key performance indicators, vehicle visuals, and slicers for exploring sales data.
+
+![Volkswagen Sales Dashboard - Showroom View](VW%20Dashboard%20Screenshots/Showroom%20View.png)
+
+### 2. Analytical View
+
+The analytical view focuses on exploring sales performance, revenue trends, and vehicle sales across different business dimensions.
+
+![Volkswagen Sales Dashboard - Analytical View](VW%20Dashboard%20Screenshots/Analytical%20View.png)
+
 ## 🎯 Project Objectives
 
 - Investigate data quality issues, missing values, inconsistent entries, and potential duplicate transactions.
